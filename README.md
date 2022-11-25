@@ -1,1 +1,1 @@
-This is project is so cool.
+This project is so cool.
